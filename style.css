@@ -5,3 +5,6 @@ body{
         .nav-toggle {
             align-content: end;
         }
+        .show-links {
+            height: 10rem;
+        }
